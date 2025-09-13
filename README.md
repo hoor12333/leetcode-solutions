@@ -7,6 +7,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hoor12333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/hoor12333/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hoor12333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -26,6 +27,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/hoor12333/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hoor12333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -36,6 +38,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/hoor12333/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/hoor12333/leetcode-solutions/tree/master/0274-h-index) |
