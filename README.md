@@ -32,6 +32,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0015-3sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hoor12333/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hoor12333/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/hoor12333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -128,4 +129,8 @@ This repository contains my personal solutions to LeetCode problems, implemented
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hoor12333/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hoor12333/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
