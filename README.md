@@ -116,6 +116,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/hoor12333/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/hoor12333/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hoor12333/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hoor12333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
