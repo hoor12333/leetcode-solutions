@@ -65,6 +65,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0012-integer-to-roman](https://github.com/hoor12333/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hoor12333/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hoor12333/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/hoor12333/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hoor12333/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -139,6 +140,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hoor12333/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hoor12333/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/hoor12333/leetcode-solutions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/hoor12333/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hoor12333/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hoor12333/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/hoor12333/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -171,5 +173,6 @@ This repository contains my personal solutions to LeetCode problems, implemented
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hoor12333/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/hoor12333/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
