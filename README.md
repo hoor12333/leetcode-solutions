@@ -6,6 +6,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hoor12333/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hoor12333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0015-3sum) |
@@ -69,6 +70,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hoor12333/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hoor12333/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hoor12333/leetcode-solutions/tree/master/0013-roman-to-integer) |
