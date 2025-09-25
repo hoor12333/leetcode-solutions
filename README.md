@@ -27,6 +27,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0088-merge-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hoor12333/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hoor12333/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/hoor12333/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/hoor12333/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hoor12333/leetcode-solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hoor12333/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0049-group-anagrams](https://github.com/hoor12333/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hoor12333/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hoor12333/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/hoor12333/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hoor12333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hoor12333/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -215,4 +217,8 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0054-spiral-matrix](https://github.com/hoor12333/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hoor12333/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/hoor12333/leetcode-solutions/tree/master/0289-game-of-life) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hoor12333/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
