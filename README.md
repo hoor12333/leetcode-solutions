@@ -21,6 +21,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0049-group-anagrams](https://github.com/hoor12333/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hoor12333/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hoor12333/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/hoor12333/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/hoor12333/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/hoor12333/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hoor12333/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -67,6 +68,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0016-3sum-closest](https://github.com/hoor12333/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hoor12333/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/hoor12333/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/hoor12333/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hoor12333/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hoor12333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hoor12333/leetcode-solutions/tree/master/0242-valid-anagram) |
