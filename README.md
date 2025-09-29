@@ -141,6 +141,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hoor12333/leetcode-solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hoor12333/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -157,6 +158,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 | [0020-valid-parentheses](https://github.com/hoor12333/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hoor12333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hoor12333/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/hoor12333/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
