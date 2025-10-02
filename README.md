@@ -206,6 +206,7 @@ This repository contains my personal solutions to LeetCode problems, implemented
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hoor12333/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/hoor12333/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hoor12333/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
@@ -244,5 +245,6 @@ This repository contains my personal solutions to LeetCode problems, implemented
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hoor12333/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/hoor12333/leetcode-solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
